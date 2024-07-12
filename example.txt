@@ -1,0 +1,2 @@
+This is a sample text.Lalalal lalala i was wrooonggg
+We are writing this to a file.
