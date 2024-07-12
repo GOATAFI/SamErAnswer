@@ -1,0 +1,15 @@
+a:visited{
+    color: green;
+}
+
+p{
+    background-color: yellow;
+}
+
+ ul li {
+    list-style-type: square;
+}
+body{
+    background-image: url('calender1.jpeg');
+    background-repeat: repeat;
+}
